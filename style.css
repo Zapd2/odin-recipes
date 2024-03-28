@@ -6,6 +6,7 @@
 	background-color: #FFC94A;
 	color: #795458;
 	text-align: center;
+	font-size: 50px;
 	width: 2000px;
 	height: 100px;
 }
@@ -13,4 +14,18 @@
 .recipeslink{
 	background-color: #a09cc7;
 	color: antiquewhite;
+}
+
+.inglist{
+	background-color: #795458;
+	color: antiquewhite;
+}
+
+.description{
+	font-style: italic;
+	color: darkslategrey;
+}
+
+h2{
+	background-color: #a09cc7;
 }
