@@ -1,3 +1,16 @@
+*{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .odinrecipes{
-	background-color: #C08B5C;
+	background-color: #FFC94A;
+	color: #795458;
+	text-align: center;
+	width: 2000px;
+	height: 100px;
+}
+
+.recipeslink{
+	background-color: #a09cc7;
+	color: antiquewhite;
 }
